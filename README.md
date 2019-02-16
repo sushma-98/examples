@@ -9,7 +9,7 @@ file.
 All definition files provided by Sylabs are under the BSD-3 clause license,
 unless noted in the file themselves. See the LICENSE.md file for more information.
 
-### Here is the example map:
+## Here is the example map: ###
 
  - [Database](https://github.com/sylabs/examples/tree/master/database)
    - [MariaDB](https://github.com/sylabs/examples/tree/master/database/mariadb)
